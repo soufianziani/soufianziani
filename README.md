@@ -1,6 +1,7 @@
+<samp>
 <h1 align="center">Hi 👋, I'm Soufiane Ziani</h1>
 
-  <p align="center">
+  <p align="center" >
     In the world of pixels and code, I dance between the realms of Full Stack Development and Graphic Design, sculpting digital landscapes with lines of code and strokes of creativity.
     <br/>
     <br/>
@@ -19,3 +20,4 @@
       <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
     </a>
   </p>
+  </samp>
