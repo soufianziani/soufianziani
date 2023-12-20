@@ -16,7 +16,7 @@
     <a href="https://buymeacoffee.com/soufianeziani">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
     </a>
-    <a href="https://paypal.me/">
+    <a href="https://paypal.me/soufianeziani1?country.x=MA&locale.x=ar_EG">
       <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
     </a>
   </p>
