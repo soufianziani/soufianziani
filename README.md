@@ -6,7 +6,7 @@
     <br/>
     <br/>
     <a href="https://linkedin.com/in/soufiane-ziani-675095232/">LinkedIn</a> <Strong>.</Strong>
-    <a href="https://www.instagram.com/soufiane_ziani_romac/">instagram</a> <Strong>.</Strong>
+    <a href="https://www.instagram.com/mr_soufiane_ziani/">instagram</a> <Strong>.</Strong>
     <a href="https://twitter.com/Soufiane_ZIIANI">Twitter</a> <Strong>.</Strong>
     <a href="https://www.facebook.com/SoufianeZiani2/">Facebook</a>
   </p>
