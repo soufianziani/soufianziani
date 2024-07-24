@@ -14,7 +14,7 @@
     </p>
     <br/>
     <div align="center" height="200">
-      <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif" width="480" height="390" alt="Excited Reaction GIF" />   
+      <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif"  width="100%" height="100%" alt="Excited Reaction GIF" />   
     </div>
     <!-- https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy.gif -->
   </p>
