@@ -13,8 +13,8 @@
       <img src="https://komarev.com/ghpvc/?username=soufianziani&label=Profile%20views&color=0e75b6&style=flat" alt="soufianziani" />
     </p>
     <br/>
-    <p align="center" width="200">
+    <div align="center" height="200">
       <img src="https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy.gif" width="480" height="390" alt="Excited Reaction GIF" />
-    </p>
+    </div>
   </p>
 </samp>
