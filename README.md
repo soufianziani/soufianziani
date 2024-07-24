@@ -14,7 +14,7 @@
     </p>
     <br/>
     <div align="center" height="200">
-      <iframe src="https://giphy.com/embed/elrFAUtV7ZOH7TSPhF" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      <img src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif" width="480" height="390" alt="Excited Reaction GIF" />
     </div>
   </p>
 </samp>
