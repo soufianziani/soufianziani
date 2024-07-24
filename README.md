@@ -14,7 +14,7 @@
     </p>
     <br/>
     <p align="center">
-      <img src="https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy.gif" width="480" height="398" alt="Excited Reaction GIF" />
+      <img src="https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy.gif" width="480" height="200" alt="Excited Reaction GIF" />
     </p>
   </p>
 </samp>
