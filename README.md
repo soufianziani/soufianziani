@@ -1,9 +1,7 @@
 <samp>
   <h2 align="center">Hi 👋, Welcome I'am Soufiane Ziani</h2>
-
   <p align="center">
-    <br/>
-    <br/>
+
     <a href="https://linkedin.com/in/soufiane-ziani-675095232/">LinkedIn</a> <strong>.</strong>
     <a href="https://www.instagram.com/mr_soufiane_ziani/">Instagram</a> <strong>.</strong>
     <a href="https://twitter.com/Soufiane_ZIIANI">Twitter</a> <strong>.</strong>
