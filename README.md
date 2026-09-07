@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><samp>SOUFIANE ZIANI</samp></h1>
+<h2><samp>SOUFIANE ZIANI</samp></h2>
 
 <p>
 Software Developer · Flutter Developer · Backend Systems · APIs · Automation
@@ -21,7 +21,7 @@ Software Developer · Flutter Developer · Backend Systems · APIs · Automation
 </p>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianziani&hide_border=true&background=00000000&stroke=30363d&ring=8b949e&fire=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianziani&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681"
   height="145"
 />
 
