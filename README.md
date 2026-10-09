@@ -1,28 +1,37 @@
 <div align="center">
 
-<h2><samp>SOUFIANE ZIANI</samp></h2>
+### `soufiane@github ~ $ ./contributions.sh`
 
-<p>
+<img src="./assets/contributions.svg" width="860" alt="Soufiane's animated GitHub contribution heatmap for the last 365 days, refreshed daily" />
+
+<br />
+
+### `soufiane@github ~ $ whoami`
+
+<img src="./assets/terminal.svg" width="420" alt="Soufiane Ziani — Software Developer · Flutter Developer · Backend Systems · APIs · Automation" />
+<img src="./assets/stats.svg" width="420" alt="Soufiane's animated GitHub statistics: public non-fork repositories, stars, followers, and contributions" />
+
+<br />
+
+<img src="./assets/streak.svg" width="860" alt="Current contribution streak and longest streak within the last 365 UTC days" />
+
+<br />
+
+### `soufiane@github ~ $ ./links.sh`
+
+**SOUFIANE ZIANI**
+
 Software Developer · Flutter Developer · Backend Systems · APIs · Automation
-<br>
-<a href="https://linkedin.com/in/soufiane-ziani-675095232/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/mr_soufiane_ziani/">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://twitter.com/Soufiane_ZIIANI">Twitter</a>
-&nbsp;·&nbsp;
-<a href="https://www.facebook.com/SoufianeZiani2/">Facebook</a>
-</p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=soufianziani&label=Views&color=21262d&style=flat" />
-<img src="https://img.shields.io/github/followers/soufianziani?label=Followers&style=flat&color=21262d" />
-<img src="https://img.shields.io/github/stars/soufianziani?affiliations=OWNER&label=Stars&style=flat&color=21262d" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39d353?style=for-the-badge&logoColor=39d353&labelColor=0d1117&color=0d1117)](https://linkedin.com/in/soufiane-ziani-675095232/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353)](https://www.instagram.com/mr_soufiane_ziani/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=39d353)](https://twitter.com/Soufiane_ZIIANI)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39d353)](https://www.facebook.com/SoufianeZiani2/)
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianziani&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681"
-  height="145"
-/>
+<img src="https://komarev.com/ghpvc/?username=soufianziani&label=Views&color=238636&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/soufianziani?label=Followers&style=flat&color=238636" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/soufianziani?affiliations=OWNER&label=Stars&style=flat&color=238636" alt="GitHub stars" />
+
+<sub>Daily GitHub data · UTC calendar · Streaks measured within the displayed 365-day window</sub>
 
 </div>
