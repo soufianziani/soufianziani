@@ -1,20 +1,21 @@
 name: Refresh profile art
 on:
   schedule:
-    - cron: '23 6 * * *'
+    - cron: '23 5 * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - scripts/**
       - tests/**
-      - .github/workflows/update-profile.yml
+      - .github/workflows/profile.yml
   pull_request:
     paths:
       - scripts/**
       - tests/**
       - assets/**
-      - .github/workflows/update-profile.yml
+      - README.md
+      - .github/workflows/profile.yml
 permissions:
   contents: read
 concurrency:
@@ -35,6 +36,7 @@ jobs:
     if: github.event_name != 'pull_request'
     needs: test
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:

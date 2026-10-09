@@ -17,7 +17,7 @@ start before the window; only days within the window are counted.
 
 ## Refresh and validation
 
-The workflow runs daily at 06:23 UTC, manually, and after generator changes on
+The workflow runs daily at 05:23 UTC, manually, and after generator changes on
 main. Scheduled workflows start after merge into the default branch and may be
 delayed by GitHub. GitHub may disable schedules in inactive public repositories;
 re-enable the workflow in Actions if needed. It uses the built-in GitHub token
