@@ -1,11 +1,5 @@
 <div align="center">
 
-### `soufiane@github ~ $ ./contributions.sh`
-
-<img src="./assets/contributions.svg" width="860" alt="Soufiane's animated GitHub contribution heatmap for the last 365 days, refreshed daily" />
-
-<br />
-
 ### `soufiane@github ~ $ whoami`
 
 <img src="./assets/terminal.svg" width="420" alt="Soufiane Ziani — Software Developer · Flutter Developer · Backend Systems · APIs · Automation" />
@@ -14,6 +8,12 @@
 <br />
 
 <img src="./assets/streak.svg" width="860" alt="Current contribution streak and longest streak within the last 365 UTC days" />
+
+<br />
+
+### `soufiane@github ~ $ ./contributions.sh`
+
+<img src="./assets/contributions.svg" width="860" alt="Soufiane's animated GitHub contribution heatmap for the last 365 days, refreshed daily" />
 
 <br />
 
