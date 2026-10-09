@@ -1,28 +1,39 @@
 <div align="center">
 
-<h2><samp>SOUFIANE ZIANI</samp></h2>
+### `soufiane@github ~ $ ./contributions.sh`
 
-<p>
-Software Developer · Flutter Developer · Backend Systems · APIs · Automation
+<img src="./assets/contributions.svg" width="840" alt="Soufiane Ziani's animated GitHub contribution heatmap, refreshed daily" />
+
 <br>
-<a href="https://linkedin.com/in/soufiane-ziani-675095232/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/mr_soufiane_ziani/">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://twitter.com/Soufiane_ZIIANI">Twitter</a>
-&nbsp;·&nbsp;
-<a href="https://www.facebook.com/SoufianeZiani2/">Facebook</a>
-</p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=soufianziani&label=Views&color=21262d&style=flat" />
-<img src="https://img.shields.io/github/followers/soufianziani?label=Followers&style=flat&color=21262d" />
-<img src="https://img.shields.io/github/stars/soufianziani?affiliations=OWNER&label=Stars&style=flat&color=21262d" />
-</p>
+### `soufiane@github ~ $ whoami`
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianziani&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681"
-  height="145"
-/>
+<!-- Independent images wrap into one column on narrow screens. -->
+<img src="./assets/terminal.svg" width="410" alt="Soufiane Ziani — Software Developer. Skills: Flutter Developer, Backend Systems, APIs, Automation." />
+<img src="./assets/stats.svg" width="410" alt="Soufiane's GitHub statistics: current streak, longest streak in the displayed year, contributions, active days, public repositories, stars, and followers" />
+
+<br>
+
+**Software Developer · Flutter Developer · Backend Systems · APIs · Automation**
+
+### `soufiane@github ~ $ ./links.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/soufiane-ziani-675095232/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353)](https://www.instagram.com/mr_soufiane_ziani/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=39d353)](https://twitter.com/Soufiane_ZIIANI)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39d353)](https://www.facebook.com/SoufianeZiani2/)
+
+<img src="https://komarev.com/ghpvc/?username=soufianziani&label=Views&color=238636&style=flat" alt="Profile views" />
+
+<sub>Real GitHub data · Daily refresh · Reduced-motion support</sub>
 
 </div>
+
+<details>
+<summary>About these terminal cards</summary>
+
+The contribution graph and activity cards show the last 365 days through the displayed UTC date. Current streak includes yesterday when today has no contributions yet; longest streak is limited to this window, not a lifetime record. Stars count public repositories owned by this account. GitHub controls which contributions are visible to the workflow token.
+
+SVGs are generated in this repository, so the contribution graph, typing animation, and statistics need no third-party card service. See [generation and maintenance](docs/profile-art.md).
+
+</details>
