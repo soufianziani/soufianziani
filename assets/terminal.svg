@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 426" width="410" height="426" role="img" aria-labelledby="title desc">
+<title id="title">~/profile / whoami</title><desc id="desc">Soufiane Ziani's GitHub profile. Animations respect reduced motion; all information remains visible without animation.</desc>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+.cell { animation: reveal 6s ease both infinite; animation-delay: var(--delay); }
+.metric { animation: reveal 1.2s ease both; }
+.type { animation: typing 7s steps(36, end) infinite; }
+.cursor { animation: blink 1s steps(2, start) infinite; }
+@keyframes reveal { 0% { opacity: .2; } 20%,100% { opacity: 1; } }
+@keyframes typing { 0%,8% { clip-path: inset(0 100% 0 0); } 45%,95% { clip-path: inset(0 0 0 0); } 100% { clip-path: inset(0 100% 0 0); } }
+@keyframes blink { to { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cell,.metric,.type,.cursor { animation: none !important; } }
+</style>
+<rect x=".5" y=".5" width="409" height="425" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 34H409" stroke="#30363d"/>
+<circle cx="18" cy="18" r="4" fill="#ff5f57"/><circle cx="32" cy="18" r="4" fill="#febc2e"/><circle cx="46" cy="18" r="4" fill="#28c840"/>
+<text x="64" y="22" font-size="10" fill="#8b949e" >~/profile / whoami</text>
+<text x="22" y="71" font-size="15" fill="#39d353" >$ whoami</text>
+<text x="22" y="110" font-size="28" fill="#f0f6fc" >SOUFIANE ZIANI</text>
+<text x="22" y="143" font-size="16" fill="#39d353" class="type">Software Developer</text>
+<text x="22" y="187" font-size="14" fill="#39d353" >$ cat skills.txt</text>
+<text x="22" y="218" font-size="16" fill="#c9d1d9" >&gt; Flutter Developer</text>
+<text x="22" y="246" font-size="16" fill="#c9d1d9" >&gt; Backend Systems</text>
+<text x="22" y="274" font-size="16" fill="#c9d1d9" >&gt; APIs</text>
+<text x="22" y="302" font-size="16" fill="#c9d1d9" >&gt; Automation</text>
+<text x="22" y="363" font-size="11" fill="#8b949e" >soufianziani / README.md</text>
+<text x="22" y="401" font-size="16" fill="#39d353" >$ </text>
+<rect class="cursor" x="42" y="387" width="9" height="17" fill="#39d353"/>
+</svg>
