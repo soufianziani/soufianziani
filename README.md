@@ -2,38 +2,46 @@
 
 ### `soufiane@github ~ $ ./contributions.sh`
 
-<img src="./assets/contributions.svg" width="840" alt="Soufiane Ziani's animated GitHub contribution heatmap, refreshed daily" />
+<img src="./assets/contributions.svg" width="860" alt="Soufiane's animated GitHub contribution heatmap for the last 365 days, refreshed daily" />
 
-<br>
+<br />
 
 ### `soufiane@github ~ $ whoami`
 
-<!-- Independent images wrap into one column on narrow screens. -->
-<img src="./assets/terminal.svg" width="410" alt="Soufiane Ziani — Software Developer. Skills: Flutter Developer, Backend Systems, APIs, Automation." />
-<img src="./assets/stats.svg" width="410" alt="Soufiane's GitHub statistics: current streak, longest streak in the displayed year, contributions, active days, public repositories, stars, and followers" />
+<img src="./assets/terminal.svg" width="420" alt="Soufiane Ziani — Software Developer · Flutter Developer · Backend Systems · APIs · Automation" />
+<img src="./assets/stats.svg" width="420" alt="Soufiane's animated GitHub statistics: public non-fork repositories, stars, followers, and contributions" />
 
-<br>
+<br />
 
-**Software Developer · Flutter Developer · Backend Systems · APIs · Automation**
+<img src="./assets/streak.svg" width="860" alt="Current contribution streak and longest streak within the last 365 UTC days" />
+
+<br />
 
 ### `soufiane@github ~ $ ./links.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/soufiane-ziani-675095232/)
+**SOUFIANE ZIANI**
+
+Software Developer · Flutter Developer · Backend Systems · APIs · Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39d353?style=for-the-badge&logoColor=39d353&labelColor=0d1117&color=0d1117)](https://linkedin.com/in/soufiane-ziani-675095232/)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353)](https://www.instagram.com/mr_soufiane_ziani/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=39d353)](https://twitter.com/Soufiane_ZIIANI)
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39d353)](https://www.facebook.com/SoufianeZiani2/)
 
 <img src="https://komarev.com/ghpvc/?username=soufianziani&label=Views&color=238636&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/soufianziani?label=Followers&style=flat&color=238636" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/soufianziani?affiliations=OWNER&label=Stars&style=flat&color=238636" alt="GitHub stars" />
 
-<sub>Real GitHub data · Daily refresh · Reduced-motion support</sub>
+<sub>Daily GitHub data · UTC calendar · Streaks measured within the displayed 365-day window</sub>
 
 </div>
 
 <details>
 <summary>About these terminal cards</summary>
 
-The contribution graph and activity cards show the last 365 days through the displayed UTC date. Current streak includes yesterday when today has no contributions yet; longest streak is limited to this window, not a lifetime record. Stars count public repositories owned by this account. GitHub controls which contributions are visible to the workflow token.
-
-SVGs are generated in this repository, so the contribution graph, typing animation, and statistics need no third-party card service. See [generation and maintenance](docs/profile-art.md).
+The cards use live GitHub data for the displayed 365 UTC dates. Current streak
+includes yesterday when today has no contributions yet; longest streak is limited
+to this window. Repository and card star totals cover public, non-fork repositories.
+See [generation and maintenance](docs/profile-art.md) for details.
 
 </details>

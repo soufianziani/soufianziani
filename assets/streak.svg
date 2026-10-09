@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="218" viewBox="0 0 860 218" role="img" aria-labelledby="title desc">
+<title id="title">soufiane@github: ~/streak</title><desc id="desc">Current streak 1 days; longest within the last 365 days 363 days. Not an all-time streak.</desc><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9}
+.reveal{animation:reveal .6s ease both}@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.cell{animation:cell .5s ease both}@keyframes cell{from{opacity:.15}to{opacity:1}}
+.typing{animation:type 2.5s steps(28,end) both}@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+.cursor{animation:blink 1s steps(2,start) infinite}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.reveal,.cell,.typing,.cursor{animation:none!important;opacity:1!important;transform:none!important;clip-path:none!important}}</style>
+<rect x=".5" y=".5" width="859" height="217" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 38H859" stroke="#30363d"/>
+<circle cx="20" cy="19" r="4" fill="#ff5f56"/><circle cx="35" cy="19" r="4" fill="#ffbd2e"/><circle cx="50" cy="19" r="4" fill="#27c93f"/>
+<text x="70" y="23" font-size="11" style="fill:#8b949e" >soufiane@github: ~/streak</text><text x="24" y="74" font-size="15" style="fill:#39d353" >$ ./streak.sh --window 365d</text><g class="reveal" style="animation-delay:0.0s"><text x="24" y="127" font-size="40" style="fill:#39d353" >1</text><text x="114" y="125" font-size="15" style="fill:#8b949e" >days</text><text x="24" y="157" font-size="12" >CURRENT STREAK</text></g><g class="reveal" style="animation-delay:0.25s"><text x="442" y="127" font-size="40" style="fill:#39d353" >363</text><text x="532" y="125" font-size="15" style="fill:#8b949e" >days</text><text x="442" y="157" font-size="12" >LONGEST IN WINDOW</text></g><text x="24" y="195" font-size="11" style="fill:#8b949e" >UTC calendar / through 2026-10-09 / today may still be in progress</text></svg>
