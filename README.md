@@ -11,12 +11,6 @@
 
 <br />
 
-### `soufiane@github ~ $ ./contributions.sh`
-
-<img src="./assets/contributions.svg" width="860" alt="Soufiane's animated GitHub contribution heatmap for the last 365 days, refreshed daily" />
-
-<br />
-
 ### `soufiane@github ~ $ ./links.sh`
 
 **SOUFIANE ZIANI**
