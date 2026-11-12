@@ -1,12 +1,7 @@
 {
   "login": "soufianziani",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "days": [
-    {
-      "date": "2025-11-12",
-      "contributionCount": 1,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-11-13",
       "contributionCount": 7,
@@ -1824,8 +1819,13 @@
     },
     {
       "date": "2026-11-11",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
+      "contributionCount": 17,
+      "contributionLevel": "SECOND_QUARTILE"
+    },
+    {
+      "date": "2026-11-12",
+      "contributionCount": 5,
+      "contributionLevel": "FIRST_QUARTILE"
     }
   ],
   "followers": 11,
